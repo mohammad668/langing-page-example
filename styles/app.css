@@ -151,11 +151,11 @@ header {
 .menu-mobile__link::before {
     cursor: pointer;
     border-radius: 2rem;
-    content: '';
+    content: "";
     position: absolute;
     width: 4rem;
     height: 0.4rem;
-   
+   background-color: #333;
 
 }
 
